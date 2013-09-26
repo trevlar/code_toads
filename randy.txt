@@ -1,0 +1,5 @@
+I really have no clue what I'm doing.  I cloned Jeff's repository and made local edits to his project_ideas.txt document.  Now I'm trying to send a push request so he can look at my changes and merge them with his copy . . .but this github window doesn't seem to give me any way to select a local file to upload.  Seems like I can only create a brand new file by typing in this little window.  Really, what good is that if I were trying to send him edits to an existing document? I'm so confuse.
+
+I'm also trying to use the command line interface.  But there doesn't seem to be a way to submit a pull request from the command line.
+
+My favorite idea is already on the list he made, so I don't really have anything to add.  Just wanted to try to submit a pull request.
