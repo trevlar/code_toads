@@ -12,9 +12,19 @@ Trip to Germany - End project for all those in CSIS 2430. Use algorithms to dete
 
 RPG - 
 
-Collin's CRM - 
+Colin's CRM - This is a CRM that would be built via a desktop or web application for real estate agents. 
+              It would need to track prospective clients, track paperwork, could have automatic email marketing 
+              campaign, track events such as inspection and financing deadlines, realtor commisions. Being able to track contract 
+              completion and acuuracy would be the most viatal as this is a huge problem in the industry. 
+              
+              A big point would be to not recreate the Wasatch Front Regional Multiple Listing Service. This 
+              is a service that does have many of the features and is the primary resource for homes here in Utah. 
+              The issue is that it does not integrate the work the indivual realtors do with the company as an 
+              entirty very well. It would also be excellent to simplilify it into perhaps some sort of web app
+              that could run on a variety of platforms. 
+              
+              
 
 Quote Book - 
 
-
-Randy Stewart 9/26/2013: Take 2.  I don't have anything to add to this list.  It already has my favorite, which is the Hotel management idea.  What I like most about it, is it could be very modular.  We could add or subtract features pretty easily.  And it might be easy to divide up the work among front end, database, and business rules.  (Now let's see if I can make a pull request.)
+Hey there
