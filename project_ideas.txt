@@ -16,4 +16,5 @@ Collin's CRM -
 
 Quote Book - 
 
-Hey there
+
+Randy Stewart 9/26/2013: Take 2.  I don't have anything to add to this list.  It already has my favorite, which is the Hotel management idea.  What I like most about it, is it could be very modular.  We could add or subtract features pretty easily.  And it might be easy to divide up the work among front end, database, and business rules.  (Now let's see if I can make a pull request.)
