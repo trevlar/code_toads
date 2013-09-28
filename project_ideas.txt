@@ -4,14 +4,18 @@ Add to this list as necessary and if the idea is yours, put in a description.
 
 These are the ideas which we mentioned a second time after the weekend had passed.
 
-Hotel Management Application -
+Add an asterisk above the two ideas you would like to vote towards.
 
+Hotel Management Application - 
+
+*
 Neighborhood Watch - Online Website where users are in groups with their neighbors. Possible alerts/notifications, calendar, and shared pages/discussions.
 
 Trip to Germany - End project for all those in CSIS 2430. Use algorithms to determine the most effective to take a lengthy vacation through Germany with 20 or so stops.
 
-RPG - 
+RPG - A role playing game of role playing games where you role play the awesome role of hero. With the coolest weapons, maps and design this world has ever seen. One of a kind of it's kind of game.
 
+*
 Colin's CRM - This is a CRM that would be built via a desktop or web application for real estate agents. 
               It would need to track prospective clients, track paperwork, could have automatic email marketing 
               campaign, track events such as inspection and financing deadlines, realtor commisions. Being able to track contract 
@@ -22,9 +26,6 @@ Colin's CRM - This is a CRM that would be built via a desktop or web application
               The issue is that it does not integrate the work the indivual realtors do with the company as an 
               entirty very well. It would also be excellent to simplilify it into perhaps some sort of web app
               that could run on a variety of platforms. 
-              
-              
-
+                           
 Quote Book - 
 
-Hey there
